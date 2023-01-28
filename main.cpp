@@ -1,5 +1,4 @@
 //Justin V, Anthony Y
-#include "tools.hpp"
 #include "card.hpp"
 
 
